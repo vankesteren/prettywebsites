@@ -37,6 +37,15 @@ Below are some websites I appreciate. They have nice design or nice organisation
 
 <br/>
 
+<br/>
+
+### [Reaktor](https://www.reaktor.com/)
+[![upshot](img/reaktor.png)](https://www.reaktor.com/)
+
+> Aside from its general clean aesthetic, one specific little detail about the Reaktor website caught my eye: hovering over a link makes it slide similar to the logo with its vertical shift. This is a great detail that really brings home the simple style!
+
+<br/>
+
 
 <br/>
 
